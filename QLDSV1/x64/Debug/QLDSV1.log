@@ -1,0 +1,50 @@
+﻿  console.cpp
+F:\QLDSV1\QLDSV1\console.cpp(165,11): warning C4309:  'initializing': truncation of constant value
+F:\QLDSV1\QLDSV1\console.cpp(165,20): warning C4309:  'initializing': truncation of constant value
+F:\QLDSV1\QLDSV1\console.cpp(165,29): warning C4309:  'initializing': truncation of constant value
+F:\QLDSV1\QLDSV1\console.cpp(165,38): warning C4309:  'initializing': truncation of constant value
+F:\QLDSV1\QLDSV1\console.cpp(165,47): warning C4309:  'initializing': truncation of constant value
+F:\QLDSV1\QLDSV1\console.cpp(165,56): warning C4309:  'initializing': truncation of constant value
+F:\QLDSV1\QLDSV1\console.cpp(286,31): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\QLDSV1\QLDSV1\console.cpp(305,38): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\QLDSV1\QLDSV1\console.cpp(641,27): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\QLDSV1\QLDSV1\console.cpp(645,47): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+F:\QLDSV1\QLDSV1\console.cpp(747,27): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\QLDSV1\QLDSV1\console.cpp(760,27): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\QLDSV1\QLDSV1\console.cpp(817,7): warning C4101:  'KT': unreferenced local variable
+F:\QLDSV1\QLDSV1\console.cpp(903,7): warning C4101:  'KT': unreferenced local variable
+F:\QLDSV1\QLDSV1\console.cpp(984,7): warning C4101:  'KT': unreferenced local variable
+F:\QLDSV1\QLDSV1\console.cpp(1086,7): warning C4101:  'KT': unreferenced local variable
+F:\QLDSV1\QLDSV1\console.cpp(1260,25): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\QLDSV1\QLDSV1\console.cpp(1285,16): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+F:\QLDSV1\QLDSV1\console.cpp(1295,7): warning C4101:  'KT': unreferenced local variable
+F:\QLDSV1\QLDSV1\console.cpp(1412,7): warning C4101:  'KT': unreferenced local variable
+F:\QLDSV1\QLDSV1\console.cpp(1535,7): warning C4101:  'KT': unreferenced local variable
+F:\QLDSV1\QLDSV1\console.cpp(1639,7): warning C4101:  'KT': unreferenced local variable
+  DangKi.cpp
+  DanhSachDK.cpp
+  DanhSachLopTC.cpp
+  DanhSachMonHoc.cpp
+  DanhSachMonHocGiaoDien.cpp
+  DanhSachSV.cpp
+F:\QLDSV1\QLDSV1\console.cpp(1741,7): warning C4101:  'KT': unreferenced local variable
+F:\QLDSV1\QLDSV1\DanhSachSV.cpp(133,11): warning C4566:  character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+  DocGhiFile.cpp
+  GiaoDienChungGiaoVien.cpp
+  GiaoDienTongQuat.cpp
+F:\QLDSV1\QLDSV1\DanhSachSV.cpp(178,13): warning C4566:  character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+F:\QLDSV1\QLDSV1\GiaoDienTongQuat.cpp(10,31): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\QLDSV1\QLDSV1\GiaoDienTongQuat.cpp(25,31): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Login.cpp
+F:\QLDSV1\QLDSV1\GiaoDienTongQuat.cpp(64,43): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\QLDSV1\QLDSV1\Login.cpp(62,53): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+  LopTinchi.cpp
+  MonHoc.cpp
+  SinhVien.cpp
+  Source.cpp
+  Generating Code...
+F:\QLDSV1\QLDSV1\Login.cpp(70,53): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\QLDSV1\QLDSV1\Login.cpp(70,53): warning C4267: F:\QLDSV1\QLDSV1\DanhSachSV.cpp(121) : warning C4715: 'Lay_Thong_Tin_Sinh_Vien_Theo_Ma': not all control paths return a value
+F:\QLDSV1\QLDSV1\Login.cpp(70,53): warning C4267: F:\QLDSV1\QLDSV1\DanhSachMonHoc.cpp(50) : warning C4717: 'Xuat_tang_dan_theo_ten': recursive on all control paths, function will cause runtime stack overflow
+F:\QLDSV1\QLDSV1\Login.cpp(70,53): warning C4267: F:\QLDSV1\QLDSV1\DanhSachDK.cpp(122) : warning C4715: 'Lay_Thong_Tin_Dang_Ki_Theo_Ma': not all control paths return a value
+  QLDSV1.vcxproj -> F:\QLDSV1\x64\Debug\QLDSV1.exe

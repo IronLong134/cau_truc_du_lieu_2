@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Giao Dien">
+      <UniqueIdentifier>{e1c1cd5c-1247-4fed-bb1a-e52a2b230c62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Giao Dien">
+      <UniqueIdentifier>{ddb36d46-92fd-45fe-a838-6ec150028224}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\giao dien admin">
+      <UniqueIdentifier>{58ba55b3-6fa3-4405-b8d3-376bbec67e64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\giao dien admin">
+      <UniqueIdentifier>{65030d02-d72d-408a-bbd9-2c58f2afc701}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="console.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DangKi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DanhSachDK.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DanhSachLopTC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DanhSachMonHoc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DanhSachSV.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LopTinChi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MonHoc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SinhVien.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DocGhiFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Login.h">
+      <Filter>Header Files\Giao Dien</Filter>
+    </ClInclude>
+    <ClInclude Include="GiaoDienTongQuat.h">
+      <Filter>Header Files\Giao Dien</Filter>
+    </ClInclude>
+    <ClInclude Include="DanhSachMonHocGiaoDien.h">
+      <Filter>Header Files\Giao Dien</Filter>
+    </ClInclude>
+    <ClInclude Include="GiaoDienChungGiaoVien.h">
+      <Filter>Header Files\giao dien admin</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DanhSachLopTC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DanhSachMonHoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DanhSachSV.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LopTinchi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MonHoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SinhVien.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="console.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DangKi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DanhSachDK.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DocGhiFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Login.cpp">
+      <Filter>Source Files\Giao Dien</Filter>
+    </ClCompile>
+    <ClCompile Include="GiaoDienTongQuat.cpp">
+      <Filter>Source Files\Giao Dien</Filter>
+    </ClCompile>
+    <ClCompile Include="DanhSachMonHocGiaoDien.cpp">
+      <Filter>Source Files\Giao Dien</Filter>
+    </ClCompile>
+    <ClCompile Include="GiaoDienChungGiaoVien.cpp">
+      <Filter>Source Files\giao dien admin</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="monhoc.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sinhvien.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="loptinchi.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

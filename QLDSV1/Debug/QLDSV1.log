@@ -1,0 +1,57 @@
+﻿  console.cpp
+F:\QLDSV1_1\QLDSV1\console.cpp(165,11): warning C4309:  'initializing': truncation of constant value
+F:\QLDSV1_1\QLDSV1\console.cpp(165,20): warning C4309:  'initializing': truncation of constant value
+F:\QLDSV1_1\QLDSV1\console.cpp(165,29): warning C4309:  'initializing': truncation of constant value
+F:\QLDSV1_1\QLDSV1\console.cpp(165,38): warning C4309:  'initializing': truncation of constant value
+F:\QLDSV1_1\QLDSV1\console.cpp(165,47): warning C4309:  'initializing': truncation of constant value
+F:\QLDSV1_1\QLDSV1\console.cpp(165,56): warning C4309:  'initializing': truncation of constant value
+F:\QLDSV1_1\QLDSV1\console.cpp(645,47): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+F:\QLDSV1_1\QLDSV1\console.cpp(678,20): warning C4018:  '<': signed/unsigned mismatch
+F:\QLDSV1_1\QLDSV1\console.cpp(725,21): warning C4018:  '<': signed/unsigned mismatch
+F:\QLDSV1_1\QLDSV1\console.cpp(842,21): warning C4018:  '<': signed/unsigned mismatch
+F:\QLDSV1_1\QLDSV1\console.cpp(817,7): warning C4101:  'KT': unreferenced local variable
+F:\QLDSV1_1\QLDSV1\console.cpp(928,21): warning C4018:  '<': signed/unsigned mismatch
+F:\QLDSV1_1\QLDSV1\console.cpp(903,7): warning C4101:  'KT': unreferenced local variable
+F:\QLDSV1_1\QLDSV1\console.cpp(1010,21): warning C4018:  '<': signed/unsigned mismatch
+F:\QLDSV1_1\QLDSV1\console.cpp(984,7): warning C4101:  'KT': unreferenced local variable
+F:\QLDSV1_1\QLDSV1\console.cpp(1147,21): warning C4018:  '<': signed/unsigned mismatch
+F:\QLDSV1_1\QLDSV1\console.cpp(1086,7): warning C4101:  'KT': unreferenced local variable
+F:\QLDSV1_1\QLDSV1\console.cpp(1285,16): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+F:\QLDSV1_1\QLDSV1\console.cpp(1385,21): warning C4018:  '<': signed/unsigned mismatch
+F:\QLDSV1_1\QLDSV1\console.cpp(1295,7): warning C4101:  'KT': unreferenced local variable
+F:\QLDSV1_1\QLDSV1\console.cpp(1436,21): warning C4018:  '<': signed/unsigned mismatch
+F:\QLDSV1_1\QLDSV1\console.cpp(1412,7): warning C4101:  'KT': unreferenced local variable
+F:\QLDSV1_1\QLDSV1\console.cpp(1560,21): warning C4018:  '<': signed/unsigned mismatch
+F:\QLDSV1_1\QLDSV1\console.cpp(1535,7): warning C4101:  'KT': unreferenced local variable
+F:\QLDSV1_1\QLDSV1\console.cpp(1664,21): warning C4018:  '<': signed/unsigned mismatch
+F:\QLDSV1_1\QLDSV1\console.cpp(1639,7): warning C4101:  'KT': unreferenced local variable
+F:\QLDSV1_1\QLDSV1\console.cpp(1767,21): warning C4018:  '<': signed/unsigned mismatch
+  DangKi.cpp
+  DanhSachDK.cpp
+  DanhSachLopTC.cpp
+  DanhSachMonHoc.cpp
+  DanhSachMonHocGiaoDien.cpp
+  DanhSachSV.cpp
+F:\QLDSV1_1\QLDSV1\console.cpp(1741,7): warning C4101:  'KT': unreferenced local variable
+F:\QLDSV1_1\QLDSV1\DanhSachSV.cpp(133,11): warning C4566:  character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+  DocGhiFile.cpp
+F:\QLDSV1_1\QLDSV1\DanhSachSV.cpp(178,13): warning C4566:  character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+F:\QLDSV1_1\QLDSV1\DocGhiFile.cpp(36,21): warning C4018:  '<': signed/unsigned mismatch
+  GiaoDienChungGiaoVien.cpp
+  GiaoDienTongQuat.cpp
+F:\QLDSV1_1\QLDSV1\DocGhiFile.cpp(102,21): warning C4018:  '<': signed/unsigned mismatch
+F:\QLDSV1_1\QLDSV1\GiaoDienTongQuat.cpp(12,30): warning C4018:  '<': signed/unsigned mismatch
+F:\QLDSV1_1\QLDSV1\GiaoDienTongQuat.cpp(27,30): warning C4018:  '<': signed/unsigned mismatch
+  Login.cpp
+F:\QLDSV1_1\QLDSV1\GiaoDienTongQuat.cpp(65,20): warning C4018:  '<': signed/unsigned mismatch
+F:\QLDSV1_1\QLDSV1\Login.cpp(61,30): warning C4018:  '<': signed/unsigned mismatch
+  LopTinchi.cpp
+  MonHoc.cpp
+  SinhVien.cpp
+  Source.cpp
+  Generating Code...
+F:\QLDSV1_1\QLDSV1\Login.cpp(69,30): warning C4018:  '<': signed/unsigned mismatch
+F:\QLDSV1_1\QLDSV1\Login.cpp(69,30): warning C4018: F:\QLDSV1_1\QLDSV1\DanhSachSV.cpp(121) : warning C4715: 'Lay_Thong_Tin_Sinh_Vien_Theo_Ma': not all control paths return a value
+F:\QLDSV1_1\QLDSV1\Login.cpp(69,30): warning C4018: F:\QLDSV1_1\QLDSV1\DanhSachMonHoc.cpp(50) : warning C4717: 'Xuat_tang_dan_theo_ten': recursive on all control paths, function will cause runtime stack overflow
+F:\QLDSV1_1\QLDSV1\Login.cpp(69,30): warning C4018: F:\QLDSV1_1\QLDSV1\DanhSachDK.cpp(122) : warning C4715: 'Lay_Thong_Tin_Dang_Ki_Theo_Ma': not all control paths return a value
+  QLDSV1.vcxproj -> F:\QLDSV1_1\Debug\QLDSV1.exe
